@@ -1,0 +1,299 @@
+_id,idx,vervar,var,turvar,tahun,turtahun,nilai
+1,0,Majene,Produksi ,Padi Sawah,2008,,7363
+2,1,Majene,Produksi ,Padi Sawah,2009,,6256
+3,2,Majene,Produksi ,Padi Sawah,2010,,8762
+4,3,Majene,Produksi ,Padi Sawah,2011,,8654
+5,4,Majene,Produksi ,Padi Sawah,2012,,7569
+6,5,Majene,Produksi ,Padi Sawah,2013,,7919
+7,6,Majene,Produksi ,Padi Sawah,2014,,9247
+8,7,Majene,Produksi ,Padi Sawah,2015,,7610
+9,8,Majene,Produksi ,Padi Ladang,2008,,3992
+10,9,Majene,Produksi ,Padi Ladang,2009,,417
+11,10,Majene,Produksi ,Padi Ladang,2010,,918
+12,11,Majene,Produksi ,Padi Ladang,2011,,1947
+13,12,Majene,Produksi ,Padi Ladang,2012,,5740
+14,13,Majene,Produksi ,Padi Ladang,2013,,7968
+15,14,Majene,Produksi ,Padi Ladang,2014,,6326
+16,15,Majene,Produksi ,Padi Ladang,2015,,8257
+17,16,Majene,Produksi ,Jagung,2008,,1340
+18,17,Majene,Produksi ,Jagung,2009,,1900
+19,18,Majene,Produksi ,Jagung,2010,,1769
+20,19,Majene,Produksi ,Jagung,2011,,1525
+21,20,Majene,Produksi ,Jagung,2012,,2424
+22,21,Majene,Produksi ,Jagung,2013,,2493
+23,22,Majene,Produksi ,Jagung,2014,,747
+24,23,Majene,Produksi ,Jagung,2015,,559
+25,24,Majene,Produksi ,Kedelai,2008,,-
+26,25,Majene,Produksi ,Kedelai,2009,,-
+27,26,Majene,Produksi ,Kedelai,2010,,-
+28,27,Majene,Produksi ,Kedelai,2011,,-
+29,28,Majene,Produksi ,Kedelai,2012,,0.89
+30,29,Majene,Produksi ,Kedelai,2013,,0
+31,30,Majene,Produksi ,Kedelai,2014,,-
+32,31,Majene,Produksi ,Kedelai,2015,,-
+33,32,Majene,Produksi ,Kacang Tanah,2008,,99.9
+34,33,Majene,Produksi ,Kacang Tanah,2009,,100
+35,34,Majene,Produksi ,Kacang Tanah,2010,,134
+36,35,Majene,Produksi ,Kacang Tanah,2011,,117
+37,36,Majene,Produksi ,Kacang Tanah,2012,,110
+38,37,Majene,Produksi ,Kacang Tanah,2013,,72
+39,38,Majene,Produksi ,Kacang Tanah,2014,,62
+40,39,Majene,Produksi ,Kacang Tanah,2015,,51
+41,40,Majene,Produksi ,Kacang Hijau,2008,,323
+42,41,Majene,Produksi ,Kacang Hijau,2009,,360
+43,42,Majene,Produksi ,Kacang Hijau,2010,,271
+44,43,Majene,Produksi ,Kacang Hijau,2011,,121
+45,44,Majene,Produksi ,Kacang Hijau,2012,,182910
+46,45,Majene,Produksi ,Kacang Hijau,2013,,158
+47,46,Majene,Produksi ,Kacang Hijau,2014,,97
+48,47,Majene,Produksi ,Kacang Hijau,2015,,148
+49,48,Majene,Produksi ,Ubi Kayu,2008,,9691
+50,49,Majene,Produksi ,Ubi Kayu,2009,,9147
+51,50,Majene,Produksi ,Ubi Kayu,2010,,6353
+52,51,Majene,Produksi ,Ubi Kayu,2011,,7464
+53,52,Majene,Produksi ,Ubi Kayu,2012,,8249.85
+54,53,Majene,Produksi ,Ubi Kayu,2013,,7053
+55,54,Majene,Produksi ,Ubi Kayu,2014,,6124
+56,55,Majene,Produksi ,Ubi Kayu,2015,,7379
+57,56,Majene,Produksi ,Ubi Jalar,2008,,468
+58,57,Majene,Produksi ,Ubi Jalar,2009,,1017
+59,58,Majene,Produksi ,Ubi Jalar,2010,,1142
+60,59,Majene,Produksi ,Ubi Jalar,2011,,1294
+61,60,Majene,Produksi ,Ubi Jalar,2012,,1280
+62,61,Majene,Produksi ,Ubi Jalar,2013,,2
+63,62,Majene,Produksi ,Ubi Jalar,2014,,803
+64,63,Majene,Produksi ,Ubi Jalar,2015,,978
+65,64,Polewali Mandar,Produksi ,Padi Sawah,2008,,199.46
+66,65,Polewali Mandar,Produksi ,Padi Sawah,2009,,190.68
+67,66,Polewali Mandar,Produksi ,Padi Sawah,2010,,219.57
+68,67,Polewali Mandar,Produksi ,Padi Sawah,2011,,209.99
+69,68,Polewali Mandar,Produksi ,Padi Sawah,2012,,209506
+70,69,Polewali Mandar,Produksi ,Padi Sawah,2013,,231242
+71,70,Polewali Mandar,Produksi ,Padi Sawah,2014,,226787.8
+72,71,Polewali Mandar,Produksi ,Padi Sawah,2015,,176171
+73,72,Polewali Mandar,Produksi ,Padi Ladang,2008,,6.63
+74,73,Polewali Mandar,Produksi ,Padi Ladang,2009,,5.23
+75,74,Polewali Mandar,Produksi ,Padi Ladang,2010,,5.52
+76,75,Polewali Mandar,Produksi ,Padi Ladang,2011,,12164
+77,76,Polewali Mandar,Produksi ,Padi Ladang,2012,,5954
+78,77,Polewali Mandar,Produksi ,Padi Ladang,2013,,9438
+79,78,Polewali Mandar,Produksi ,Padi Ladang,2014,,13071.75
+80,79,Polewali Mandar,Produksi ,Padi Ladang,2015,,7144
+81,80,Polewali Mandar,Produksi ,Jagung,2008,,3.75
+82,81,Polewali Mandar,Produksi ,Jagung,2009,,4.56
+83,82,Polewali Mandar,Produksi ,Jagung,2010,,4.71
+84,83,Polewali Mandar,Produksi ,Jagung,2011,,11789
+85,84,Polewali Mandar,Produksi ,Jagung,2012,,4825
+86,85,Polewali Mandar,Produksi ,Jagung,2013,,3614
+87,86,Polewali Mandar,Produksi ,Jagung,2014,,4783.7
+88,87,Polewali Mandar,Produksi ,Jagung,2015,,510
+89,88,Polewali Mandar,Produksi ,Kedelai,2008,,1.83
+90,89,Polewali Mandar,Produksi ,Kedelai,2009,,328.34
+91,90,Polewali Mandar,Produksi ,Kedelai,2010,,6.6
+92,91,Polewali Mandar,Produksi ,Kedelai,2011,,1945.88
+93,92,Polewali Mandar,Produksi ,Kedelai,2012,,1509.29
+94,93,Polewali Mandar,Produksi ,Kedelai,2013,,-
+95,94,Polewali Mandar,Produksi ,Kedelai,2014,,953
+96,95,Polewali Mandar,Produksi ,Kedelai,2015,,638
+97,96,Polewali Mandar,Produksi ,Kacang Tanah,2008,,63
+98,97,Polewali Mandar,Produksi ,Kacang Tanah,2009,,72
+99,98,Polewali Mandar,Produksi ,Kacang Tanah,2010,,70
+100,99,Polewali Mandar,Produksi ,Kacang Tanah,2011,,179.18
+101,100,Polewali Mandar,Produksi ,Kacang Tanah,2012,,90.65
+102,101,Polewali Mandar,Produksi ,Kacang Tanah,2013,,89
+103,102,Polewali Mandar,Produksi ,Kacang Tanah,2014,,130.35
+104,103,Polewali Mandar,Produksi ,Kacang Tanah,2015,,16
+105,104,Polewali Mandar,Produksi ,Kacang Hijau,2008,,858
+106,105,Polewali Mandar,Produksi ,Kacang Hijau,2009,,463.83
+107,106,Polewali Mandar,Produksi ,Kacang Hijau,2010,,306.37
+108,107,Polewali Mandar,Produksi ,Kacang Hijau,2011,,360.42
+109,108,Polewali Mandar,Produksi ,Kacang Hijau,2012,,558.95
+110,109,Polewali Mandar,Produksi ,Kacang Hijau,2013,,394
+111,110,Polewali Mandar,Produksi ,Kacang Hijau,2014,,74.85
+112,111,Polewali Mandar,Produksi ,Kacang Hijau,2015,,70
+113,112,Polewali Mandar,Produksi ,Ubi Kayu,2008,,6.93
+114,113,Polewali Mandar,Produksi ,Ubi Kayu,2009,,6.15
+115,114,Polewali Mandar,Produksi ,Ubi Kayu,2010,,7.11
+116,115,Polewali Mandar,Produksi ,Ubi Kayu,2011,,5994
+117,116,Polewali Mandar,Produksi ,Ubi Kayu,2012,,4976
+118,117,Polewali Mandar,Produksi ,Ubi Kayu,2013,,5216
+119,118,Polewali Mandar,Produksi ,Ubi Kayu,2014,,1769.65
+120,119,Polewali Mandar,Produksi ,Ubi Kayu,2015,,2819
+121,120,Polewali Mandar,Produksi ,Ubi Jalar,2008,,1.22
+122,121,Polewali Mandar,Produksi ,Ubi Jalar,2009,,1.17
+123,122,Polewali Mandar,Produksi ,Ubi Jalar,2010,,792
+124,123,Polewali Mandar,Produksi ,Ubi Jalar,2011,,843.94
+125,124,Polewali Mandar,Produksi ,Ubi Jalar,2012,,1233.47
+126,125,Polewali Mandar,Produksi ,Ubi Jalar,2013,,1295
+127,126,Polewali Mandar,Produksi ,Ubi Jalar,2014,,419.79
+128,127,Polewali Mandar,Produksi ,Ubi Jalar,2015,,265
+129,128,Mamasa,Produksi ,Padi Sawah,2008,,96834
+130,129,Mamasa,Produksi ,Padi Sawah,2009,,42962
+131,130,Mamasa,Produksi ,Padi Sawah,2010,,97366
+132,131,Mamasa,Produksi ,Padi Sawah,2011,,72100
+133,132,Mamasa,Produksi ,Padi Sawah,2012,,81439.5
+134,133,Mamasa,Produksi ,Padi Sawah,2013,,4.15
+135,134,Mamasa,Produksi ,Padi Sawah,2014,,117030
+136,135,Mamasa,Produksi ,Padi Sawah,2015,,114343
+137,136,Mamasa,Produksi ,Padi Ladang,2008,,-
+138,137,Mamasa,Produksi ,Padi Ladang,2009,,-
+139,138,Mamasa,Produksi ,Padi Ladang,2010,,-
+140,139,Mamasa,Produksi ,Padi Ladang,2011,,-
+141,140,Mamasa,Produksi ,Padi Ladang,2012,,3660
+142,141,Mamasa,Produksi ,Padi Ladang,2013,,-
+143,142,Mamasa,Produksi ,Padi Ladang,2014,,6891
+144,143,Mamasa,Produksi ,Padi Ladang,2015,,1319
+145,144,Mamasa,Produksi ,Jagung,2008,,2090
+146,145,Mamasa,Produksi ,Jagung,2009,,489
+147,146,Mamasa,Produksi ,Jagung,2010,,701
+148,147,Mamasa,Produksi ,Jagung,2011,,789.2
+149,148,Mamasa,Produksi ,Jagung,2012,,1747.5
+150,149,Mamasa,Produksi ,Jagung,2013,,-
+151,150,Mamasa,Produksi ,Jagung,2014,,-
+152,151,Mamasa,Produksi ,Jagung,2015,,378
+153,152,Mamasa,Produksi ,Kedelai,2008,,-
+154,153,Mamasa,Produksi ,Kedelai,2009,,-
+155,154,Mamasa,Produksi ,Kedelai,2010,,-
+156,155,Mamasa,Produksi ,Kedelai,2011,,-
+157,156,Mamasa,Produksi ,Kedelai,2012,,-
+158,157,Mamasa,Produksi ,Kedelai,2013,,-
+159,158,Mamasa,Produksi ,Kedelai,2014,,-
+160,159,Mamasa,Produksi ,Kedelai,2015,,-
+161,160,Mamasa,Produksi ,Kacang Tanah,2008,,-
+162,161,Mamasa,Produksi ,Kacang Tanah,2009,,65
+163,162,Mamasa,Produksi ,Kacang Tanah,2010,,319
+164,163,Mamasa,Produksi ,Kacang Tanah,2011,,37.1
+165,164,Mamasa,Produksi ,Kacang Tanah,2012,,90.1
+166,165,Mamasa,Produksi ,Kacang Tanah,2013,,-
+167,166,Mamasa,Produksi ,Kacang Tanah,2014,,-
+168,167,Mamasa,Produksi ,Kacang Tanah,2015,,-
+169,168,Mamasa,Produksi ,Kacang Hijau,2008,,-
+170,169,Mamasa,Produksi ,Kacang Hijau,2009,,-
+171,170,Mamasa,Produksi ,Kacang Hijau,2010,,-
+172,171,Mamasa,Produksi ,Kacang Hijau,2011,,-
+173,172,Mamasa,Produksi ,Kacang Hijau,2012,,-
+174,173,Mamasa,Produksi ,Kacang Hijau,2013,,-
+175,174,Mamasa,Produksi ,Kacang Hijau,2014,,-
+176,175,Mamasa,Produksi ,Kacang Hijau,2015,,-
+177,176,Mamasa,Produksi ,Ubi Kayu,2008,,19629
+178,177,Mamasa,Produksi ,Ubi Kayu,2009,,283
+179,178,Mamasa,Produksi ,Ubi Kayu,2010,,3342
+180,179,Mamasa,Produksi ,Ubi Kayu,2011,,970
+181,180,Mamasa,Produksi ,Ubi Kayu,2012,,11812
+182,181,Mamasa,Produksi ,Ubi Kayu,2013,,9.97
+183,182,Mamasa,Produksi ,Ubi Kayu,2014,,-
+184,183,Mamasa,Produksi ,Ubi Kayu,2015,,1541
+185,184,Mamasa,Produksi ,Ubi Jalar,2008,,5306
+186,185,Mamasa,Produksi ,Ubi Jalar,2009,,946
+187,186,Mamasa,Produksi ,Ubi Jalar,2010,,1448
+188,187,Mamasa,Produksi ,Ubi Jalar,2011,,356
+189,188,Mamasa,Produksi ,Ubi Jalar,2012,,731.7
+190,189,Mamasa,Produksi ,Ubi Jalar,2013,,-
+191,190,Mamasa,Produksi ,Ubi Jalar,2014,,-
+192,191,Mamasa,Produksi ,Ubi Jalar,2015,,241
+193,192,Mamuju,Produksi ,Padi Sawah,2008,,121.44
+194,193,Mamuju,Produksi ,Padi Sawah,2009,,127.9
+195,194,Mamuju,Produksi ,Padi Sawah,2010,,134708
+196,195,Mamuju,Produksi ,Padi Sawah,2011,,142390
+197,196,Mamuju,Produksi ,Padi Sawah,2012,,151584
+198,197,Mamuju,Produksi ,Padi Sawah,2013,,87520
+199,198,Mamuju,Produksi ,Padi Sawah,2014,,109073
+200,199,Mamuju,Produksi ,Padi Sawah,2015,,71776
+201,200,Mamuju,Produksi ,Padi Ladang,2008,,2.57
+202,201,Mamuju,Produksi ,Padi Ladang,2009,,7.42
+203,202,Mamuju,Produksi ,Padi Ladang,2010,,7997
+204,203,Mamuju,Produksi ,Padi Ladang,2011,,8168
+205,204,Mamuju,Produksi ,Padi Ladang,2012,,10627
+206,205,Mamuju,Produksi ,Padi Ladang,2013,,5979
+207,206,Mamuju,Produksi ,Padi Ladang,2014,,3773
+208,207,Mamuju,Produksi ,Padi Ladang,2015,,2699
+209,208,Mamuju,Produksi ,Jagung,2008,,2.57
+210,209,Mamuju,Produksi ,Jagung,2009,,7.42
+211,210,Mamuju,Produksi ,Jagung,2010,,76547
+212,211,Mamuju,Produksi ,Jagung,2011,,80512
+213,212,Mamuju,Produksi ,Jagung,2012,,116787
+214,213,Mamuju,Produksi ,Jagung,2013,,29090
+215,214,Mamuju,Produksi ,Jagung,2014,,28202
+216,215,Mamuju,Produksi ,Jagung,2015,,30146
+217,216,Mamuju,Produksi ,Kedelai,2008,,-
+218,217,Mamuju,Produksi ,Kedelai,2009,,-
+219,218,Mamuju,Produksi ,Kedelai,2010,,1761
+220,219,Mamuju,Produksi ,Kedelai,2011,,1806
+221,220,Mamuju,Produksi ,Kedelai,2012,,2492
+222,221,Mamuju,Produksi ,Kedelai,2013,,2688
+223,222,Mamuju,Produksi ,Kedelai,2014,,3993
+224,223,Mamuju,Produksi ,Kedelai,2015,,630
+225,224,Mamuju,Produksi ,Kacang Tanah,2008,,407.37
+226,225,Mamuju,Produksi ,Kacang Tanah,2009,,464.85
+227,226,Mamuju,Produksi ,Kacang Tanah,2010,,488
+228,227,Mamuju,Produksi ,Kacang Tanah,2011,,27678
+229,228,Mamuju,Produksi ,Kacang Tanah,2012,,675
+230,229,Mamuju,Produksi ,Kacang Tanah,2013,,203.3
+231,230,Mamuju,Produksi ,Kacang Tanah,2014,,139
+232,231,Mamuju,Produksi ,Kacang Tanah,2015,,142
+233,232,Mamuju,Produksi ,Kacang Hijau,2008,,208
+234,233,Mamuju,Produksi ,Kacang Hijau,2009,,218.38
+235,234,Mamuju,Produksi ,Kacang Hijau,2010,,279
+236,235,Mamuju,Produksi ,Kacang Hijau,2011,,3941
+237,236,Mamuju,Produksi ,Kacang Hijau,2012,,283
+238,237,Mamuju,Produksi ,Kacang Hijau,2013,,120.77
+239,238,Mamuju,Produksi ,Kacang Hijau,2014,,10.15
+240,239,Mamuju,Produksi ,Kacang Hijau,2015,,50
+241,240,Mamuju,Produksi ,Ubi Kayu,2008,,24.72
+242,241,Mamuju,Produksi ,Ubi Kayu,2009,,25.93
+243,242,Mamuju,Produksi ,Ubi Kayu,2010,,27208
+244,243,Mamuju,Produksi ,Ubi Kayu,2011,,496
+245,244,Mamuju,Produksi ,Ubi Kayu,2012,,18947
+246,245,Mamuju,Produksi ,Ubi Kayu,2013,,7888
+247,246,Mamuju,Produksi ,Ubi Kayu,2014,,6804
+248,247,Mamuju,Produksi ,Ubi Kayu,2015,,6091
+249,248,Mamuju,Produksi ,Ubi Jalar,2008,,1.78
+250,249,Mamuju,Produksi ,Ubi Jalar,2009,,3.33
+251,250,Mamuju,Produksi ,Ubi Jalar,2010,,3879
+252,251,Mamuju,Produksi ,Ubi Jalar,2011,,285
+253,252,Mamuju,Produksi ,Ubi Jalar,2012,,4801
+254,253,Mamuju,Produksi ,Ubi Jalar,2013,,2192
+255,254,Mamuju,Produksi ,Ubi Jalar,2014,,2020
+256,255,Mamuju,Produksi ,Ubi Jalar,2015,,5370
+257,256,Mamuju Utara,Produksi ,Padi Sawah,2008,,12929.5
+258,257,Mamuju Utara,Produksi ,Padi Sawah,2009,,22402
+259,258,Mamuju Utara,Produksi ,Padi Sawah,2010,,16112
+260,259,Mamuju Utara,Produksi ,Padi Sawah,2011,,54116.9
+261,260,Mamuju Utara,Produksi ,Padi Sawah,2012,,62682.7
+262,261,Mamuju Utara,Produksi ,Padi Sawah,2013,,45155.2
+263,262,Mamuju Utara,Produksi ,Padi Sawah,2014,,29947.25
+264,263,Mamuju Utara,Produksi ,Padi Sawah,2015,,11955
+265,264,Mamuju Utara,Produksi ,Padi Ladang,2008,,34
+266,265,Mamuju Utara,Produksi ,Padi Ladang,2009,,209
+267,266,Mamuju Utara,Produksi ,Padi Ladang,2010,,-
+268,267,Mamuju Utara,Produksi ,Padi Ladang,2011,,425
+269,268,Mamuju Utara,Produksi ,Padi Ladang,2012,,105
+270,269,Mamuju Utara,Produksi ,Padi Ladang,2013,,-
+271,270,Mamuju Utara,Produksi ,Padi Ladang,2014,,153.5
+272,271,Mamuju Utara,Produksi ,Padi Ladang,2015,,135
+273,272,Mamuju Utara,Produksi ,Jagung,2008,,3344
+274,273,Mamuju Utara,Produksi ,Jagung,2009,,8580
+275,274,Mamuju Utara,Produksi ,Jagung,2010,,7758
+276,275,Mamuju Utara,Produksi ,Jagung,2011,,33881
+277,276,Mamuju Utara,Produksi ,Jagung,2012,,-
+278,277,Mamuju Utara,Produksi ,Jagung,2013,,34812
+279,278,Mamuju Utara,Produksi ,Jagung,2014,,50164.9
+280,279,Mamuju Utara,Produksi ,Jagung,2015,,30869
+281,280,Mamuju Utara,Produksi ,Kedelai,2008,,520
+282,281,Mamuju Utara,Produksi ,Kedelai,2009,,2617
+283,282,Mamuju Utara,Produksi ,Kedelai,2010,,797.4
+284,283,Mamuju Utara,Produksi ,Kedelai,2011,,3164
+285,284,Mamuju Utara,Produksi ,Kedelai,2012,,4108
+286,285,Mamuju Utara,Produksi ,Kedelai,2013,,4130
+287,286,Mamuju Utara,Produksi ,Kedelai,2014,,2055.8
+288,287,Mamuju Utara,Produksi ,Kedelai,2015,,1268
+289,288,Mamuju Utara,Produksi ,Kacang Tanah,2008,,106.4
+290,289,Mamuju Utara,Produksi ,Kacang Tanah,2009,,130.2
+291,290,Mamuju Utara,Produksi ,Kacang Tanah,2010,,149.25
+292,291,Mamuju Utara,Produksi ,Kacang Tanah,2011,,502
+293,292,Mamuju Utara,Produksi ,Kacang Tanah,2012,,539
+294,293,Mamuju Utara,Produksi ,Kacang Tanah,2013,,539
+295,294,Mamuju Utara,Produksi ,Kacang Tanah,2014,,328.5
+296,295,Mamuju Utara,Produksi ,Kacang Tanah,2015,,44
+297,296,Mamuju Utara,Produksi ,Kacang Hijau,2008,,60
+298,297,Mamuju Utara,Produksi ,Kacang Hijau,2009,,73.4

@@ -1,0 +1,1502 @@
+[
+  {
+    "_id": 299,
+    "idx": 298,
+    "vervar": "Mamuju Utara",
+    "var": "Produksi",
+    "turvar": "Kacang Hijau",
+    "tahun": 2010,
+    "turtahun": "",
+    "nilai": 82.8
+  },
+  {
+    "_id": 300,
+    "idx": 299,
+    "vervar": "Mamuju Utara",
+    "var": "Produksi",
+    "turvar": "Kacang Hijau",
+    "tahun": 2011,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 301,
+    "idx": 300,
+    "vervar": "Mamuju Utara",
+    "var": "Produksi",
+    "turvar": "Kacang Hijau",
+    "tahun": 2012,
+    "turtahun": "",
+    "nilai": 297
+  },
+  {
+    "_id": 302,
+    "idx": 301,
+    "vervar": "Mamuju Utara",
+    "var": "Produksi",
+    "turvar": "Kacang Hijau",
+    "tahun": 2013,
+    "turtahun": "",
+    "nilai": 297
+  },
+  {
+    "_id": 303,
+    "idx": 302,
+    "vervar": "Mamuju Utara",
+    "var": "Produksi",
+    "turvar": "Kacang Hijau",
+    "tahun": 2014,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 304,
+    "idx": 303,
+    "vervar": "Mamuju Utara",
+    "var": "Produksi",
+    "turvar": "Kacang Hijau",
+    "tahun": 2015,
+    "turtahun": "",
+    "nilai": 18
+  },
+  {
+    "_id": 305,
+    "idx": 304,
+    "vervar": "Mamuju Utara",
+    "var": "Produksi",
+    "turvar": "Ubi Kayu",
+    "tahun": 2008,
+    "turtahun": "",
+    "nilai": 1443.42
+  },
+  {
+    "_id": 306,
+    "idx": 305,
+    "vervar": "Mamuju Utara",
+    "var": "Produksi",
+    "turvar": "Ubi Kayu",
+    "tahun": 2009,
+    "turtahun": "",
+    "nilai": 1443.42
+  },
+  {
+    "_id": 307,
+    "idx": 306,
+    "vervar": "Mamuju Utara",
+    "var": "Produksi",
+    "turvar": "Ubi Kayu",
+    "tahun": 2010,
+    "turtahun": "",
+    "nilai": 1708.8
+  },
+  {
+    "_id": 308,
+    "idx": 307,
+    "vervar": "Mamuju Utara",
+    "var": "Produksi",
+    "turvar": "Ubi Kayu",
+    "tahun": 2011,
+    "turtahun": "",
+    "nilai": 1969
+  },
+  {
+    "_id": 309,
+    "idx": 308,
+    "vervar": "Mamuju Utara",
+    "var": "Produksi",
+    "turvar": "Ubi Kayu",
+    "tahun": 2012,
+    "turtahun": "",
+    "nilai": 2329
+  },
+  {
+    "_id": 310,
+    "idx": 309,
+    "vervar": "Mamuju Utara",
+    "var": "Produksi",
+    "turvar": "Ubi Kayu",
+    "tahun": 2013,
+    "turtahun": "",
+    "nilai": 2329
+  },
+  {
+    "_id": 311,
+    "idx": 310,
+    "vervar": "Mamuju Utara",
+    "var": "Produksi",
+    "turvar": "Ubi Kayu",
+    "tahun": 2014,
+    "turtahun": "",
+    "nilai": 2317
+  },
+  {
+    "_id": 312,
+    "idx": 311,
+    "vervar": "Mamuju Utara",
+    "var": "Produksi",
+    "turvar": "Ubi Kayu",
+    "tahun": 2015,
+    "turtahun": "",
+    "nilai": 1075
+  },
+  {
+    "_id": 313,
+    "idx": 312,
+    "vervar": "Mamuju Utara",
+    "var": "Produksi",
+    "turvar": "Ubi Jalar",
+    "tahun": 2008,
+    "turtahun": "",
+    "nilai": 619.92
+  },
+  {
+    "_id": 314,
+    "idx": 313,
+    "vervar": "Mamuju Utara",
+    "var": "Produksi",
+    "turvar": "Ubi Jalar",
+    "tahun": 2009,
+    "turtahun": "",
+    "nilai": 677.21
+  },
+  {
+    "_id": 315,
+    "idx": 314,
+    "vervar": "Mamuju Utara",
+    "var": "Produksi",
+    "turvar": "Ubi Jalar",
+    "tahun": 2010,
+    "turtahun": "",
+    "nilai": 808.65
+  },
+  {
+    "_id": 316,
+    "idx": 315,
+    "vervar": "Mamuju Utara",
+    "var": "Produksi",
+    "turvar": "Ubi Jalar",
+    "tahun": 2011,
+    "turtahun": "",
+    "nilai": 630
+  },
+  {
+    "_id": 317,
+    "idx": 316,
+    "vervar": "Mamuju Utara",
+    "var": "Produksi",
+    "turvar": "Ubi Jalar",
+    "tahun": 2012,
+    "turtahun": "",
+    "nilai": 679
+  },
+  {
+    "_id": 318,
+    "idx": 317,
+    "vervar": "Mamuju Utara",
+    "var": "Produksi",
+    "turvar": "Ubi Jalar",
+    "tahun": 2013,
+    "turtahun": "",
+    "nilai": 679
+  },
+  {
+    "_id": 319,
+    "idx": 318,
+    "vervar": "Mamuju Utara",
+    "var": "Produksi",
+    "turvar": "Ubi Jalar",
+    "tahun": 2014,
+    "turtahun": "",
+    "nilai": 263
+  },
+  {
+    "_id": 320,
+    "idx": 319,
+    "vervar": "Mamuju Utara",
+    "var": "Produksi",
+    "turvar": "Ubi Jalar",
+    "tahun": 2015,
+    "turtahun": "",
+    "nilai": 152
+  },
+  {
+    "_id": 321,
+    "idx": 320,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Padi Sawah",
+    "tahun": 2008,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 322,
+    "idx": 321,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Padi Sawah",
+    "tahun": 2009,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 323,
+    "idx": 322,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Padi Sawah",
+    "tahun": 2010,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 324,
+    "idx": 323,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Padi Sawah",
+    "tahun": 2011,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 325,
+    "idx": 324,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Padi Sawah",
+    "tahun": 2012,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 326,
+    "idx": 325,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Padi Sawah",
+    "tahun": 2013,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 327,
+    "idx": 326,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Padi Sawah",
+    "tahun": 2014,
+    "turtahun": "",
+    "nilai": 564228
+  },
+  {
+    "_id": 328,
+    "idx": 327,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Padi Sawah",
+    "tahun": 2015,
+    "turtahun": "",
+    "nilai": 60436
+  },
+  {
+    "_id": 329,
+    "idx": 328,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Padi Ladang",
+    "tahun": 2008,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 330,
+    "idx": 329,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Padi Ladang",
+    "tahun": 2009,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 331,
+    "idx": 330,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Padi Ladang",
+    "tahun": 2010,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 332,
+    "idx": 331,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Padi Ladang",
+    "tahun": 2011,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 333,
+    "idx": 332,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Padi Ladang",
+    "tahun": 2012,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 334,
+    "idx": 333,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Padi Ladang",
+    "tahun": 2013,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 335,
+    "idx": 334,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Padi Ladang",
+    "tahun": 2014,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 336,
+    "idx": 335,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Padi Ladang",
+    "tahun": 2015,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 337,
+    "idx": 336,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Jagung",
+    "tahun": 2008,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 338,
+    "idx": 337,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Jagung",
+    "tahun": 2009,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 339,
+    "idx": 338,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Jagung",
+    "tahun": 2010,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 340,
+    "idx": 339,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Jagung",
+    "tahun": 2011,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 341,
+    "idx": 340,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Jagung",
+    "tahun": 2012,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 342,
+    "idx": 341,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Jagung",
+    "tahun": 2013,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 343,
+    "idx": 342,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Jagung",
+    "tahun": 2014,
+    "turtahun": "",
+    "nilai": 487236
+  },
+  {
+    "_id": 344,
+    "idx": 343,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Jagung",
+    "tahun": 2015,
+    "turtahun": "",
+    "nilai": 38349
+  },
+  {
+    "_id": 345,
+    "idx": 344,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Kedelai",
+    "tahun": 2008,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 346,
+    "idx": 345,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Kedelai",
+    "tahun": 2009,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 347,
+    "idx": 346,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Kedelai",
+    "tahun": 2010,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 348,
+    "idx": 347,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Kedelai",
+    "tahun": 2011,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 349,
+    "idx": 348,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Kedelai",
+    "tahun": 2012,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 350,
+    "idx": 349,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Kedelai",
+    "tahun": 2013,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 351,
+    "idx": 350,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Kedelai",
+    "tahun": 2014,
+    "turtahun": "",
+    "nilai": 34200
+  },
+  {
+    "_id": 352,
+    "idx": 351,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Kedelai",
+    "tahun": 2015,
+    "turtahun": "",
+    "nilai": 1683
+  },
+  {
+    "_id": 353,
+    "idx": 352,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Kacang Tanah",
+    "tahun": 2008,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 354,
+    "idx": 353,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Kacang Tanah",
+    "tahun": 2009,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 355,
+    "idx": 354,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Kacang Tanah",
+    "tahun": 2010,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 356,
+    "idx": 355,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Kacang Tanah",
+    "tahun": 2011,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 357,
+    "idx": 356,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Kacang Tanah",
+    "tahun": 2012,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 358,
+    "idx": 357,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Kacang Tanah",
+    "tahun": 2013,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 359,
+    "idx": 358,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Kacang Tanah",
+    "tahun": 2014,
+    "turtahun": "",
+    "nilai": 3.59
+  },
+  {
+    "_id": 360,
+    "idx": 359,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Kacang Tanah",
+    "tahun": 2015,
+    "turtahun": "",
+    "nilai": 76
+  },
+  {
+    "_id": 361,
+    "idx": 360,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Kacang Hijau",
+    "tahun": 2008,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 362,
+    "idx": 361,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Kacang Hijau",
+    "tahun": 2009,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 363,
+    "idx": 362,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Kacang Hijau",
+    "tahun": 2010,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 364,
+    "idx": 363,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Kacang Hijau",
+    "tahun": 2011,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 365,
+    "idx": 364,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Kacang Hijau",
+    "tahun": 2012,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 366,
+    "idx": 365,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Kacang Hijau",
+    "tahun": 2013,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 367,
+    "idx": 366,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Kacang Hijau",
+    "tahun": 2014,
+    "turtahun": "",
+    "nilai": 1.93
+  },
+  {
+    "_id": 368,
+    "idx": 367,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Kacang Hijau",
+    "tahun": 2015,
+    "turtahun": "",
+    "nilai": 74
+  },
+  {
+    "_id": 369,
+    "idx": 368,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Ubi Kayu",
+    "tahun": 2008,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 370,
+    "idx": 369,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Ubi Kayu",
+    "tahun": 2009,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 371,
+    "idx": 370,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Ubi Kayu",
+    "tahun": 2010,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 372,
+    "idx": 371,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Ubi Kayu",
+    "tahun": 2011,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 373,
+    "idx": 372,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Ubi Kayu",
+    "tahun": 2012,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 374,
+    "idx": 373,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Ubi Kayu",
+    "tahun": 2013,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 375,
+    "idx": 374,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Ubi Kayu",
+    "tahun": 2014,
+    "turtahun": "",
+    "nilai": 3.3
+  },
+  {
+    "_id": 376,
+    "idx": 375,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Ubi Kayu",
+    "tahun": 2015,
+    "turtahun": "",
+    "nilai": 6079
+  },
+  {
+    "_id": 377,
+    "idx": 376,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Ubi Jalar",
+    "tahun": 2008,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 378,
+    "idx": 377,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Ubi Jalar",
+    "tahun": 2009,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 379,
+    "idx": 378,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Ubi Jalar",
+    "tahun": 2010,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 380,
+    "idx": 379,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Ubi Jalar",
+    "tahun": 2011,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 381,
+    "idx": 380,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Ubi Jalar",
+    "tahun": 2012,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 382,
+    "idx": 381,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Ubi Jalar",
+    "tahun": 2013,
+    "turtahun": "",
+    "nilai": "-"
+  },
+  {
+    "_id": 383,
+    "idx": 382,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Ubi Jalar",
+    "tahun": 2014,
+    "turtahun": "",
+    "nilai": 1.25
+  },
+  {
+    "_id": 384,
+    "idx": 383,
+    "vervar": "Mamuju Tengah",
+    "var": "Produksi",
+    "turvar": "Ubi Jalar",
+    "tahun": 2015,
+    "turtahun": "",
+    "nilai": 1743
+  },
+  {
+    "_id": 385,
+    "idx": 384,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Padi Sawah",
+    "tahun": 2008,
+    "turtahun": "",
+    "nilai": 117447
+  },
+  {
+    "_id": 386,
+    "idx": 385,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Padi Sawah",
+    "tahun": 2009,
+    "turtahun": "",
+    "nilai": 71939
+  },
+  {
+    "_id": 387,
+    "idx": 386,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Padi Sawah",
+    "tahun": 2010,
+    "turtahun": "",
+    "nilai": 257168
+  },
+  {
+    "_id": 388,
+    "idx": 387,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Padi Sawah",
+    "tahun": 2011,
+    "turtahun": "",
+    "nilai": 277471
+  },
+  {
+    "_id": 389,
+    "idx": 388,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Padi Sawah",
+    "tahun": 2012,
+    "turtahun": "",
+    "nilai": 512781
+  },
+  {
+    "_id": 390,
+    "idx": 389,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Padi Sawah",
+    "tahun": 2013,
+    "turtahun": "",
+    "nilai": 371840
+  },
+  {
+    "_id": 391,
+    "idx": 390,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Padi Sawah",
+    "tahun": 2014,
+    "turtahun": "",
+    "nilai": 1056313
+  },
+  {
+    "_id": 392,
+    "idx": 391,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Padi Sawah",
+    "tahun": 2015,
+    "turtahun": "",
+    "nilai": 442291
+  },
+  {
+    "_id": 393,
+    "idx": 392,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Padi Ladang",
+    "tahun": 2008,
+    "turtahun": "",
+    "nilai": 4035
+  },
+  {
+    "_id": 394,
+    "idx": 393,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Padi Ladang",
+    "tahun": 2009,
+    "turtahun": "",
+    "nilai": 639
+  },
+  {
+    "_id": 395,
+    "idx": 394,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Padi Ladang",
+    "tahun": 2010,
+    "turtahun": "",
+    "nilai": 8921
+  },
+  {
+    "_id": 396,
+    "idx": 395,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Padi Ladang",
+    "tahun": 2011,
+    "turtahun": "",
+    "nilai": 22704
+  },
+  {
+    "_id": 397,
+    "idx": 396,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Padi Ladang",
+    "tahun": 2012,
+    "turtahun": "",
+    "nilai": 26086
+  },
+  {
+    "_id": 398,
+    "idx": 397,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Padi Ladang",
+    "tahun": 2013,
+    "turtahun": "",
+    "nilai": 23385
+  },
+  {
+    "_id": 399,
+    "idx": 398,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Padi Ladang",
+    "tahun": 2014,
+    "turtahun": "",
+    "nilai": 30215
+  },
+  {
+    "_id": 400,
+    "idx": 399,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Padi Ladang",
+    "tahun": 2015,
+    "turtahun": "",
+    "nilai": 19553
+  },
+  {
+    "_id": 401,
+    "idx": 400,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Jagung",
+    "tahun": 2008,
+    "turtahun": "",
+    "nilai": 6780
+  },
+  {
+    "_id": 402,
+    "idx": 401,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Jagung",
+    "tahun": 2009,
+    "turtahun": "",
+    "nilai": 10981
+  },
+  {
+    "_id": 403,
+    "idx": 402,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Jagung",
+    "tahun": 2010,
+    "turtahun": "",
+    "nilai": 86780
+  },
+  {
+    "_id": 404,
+    "idx": 403,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Jagung",
+    "tahun": 2011,
+    "turtahun": "",
+    "nilai": 128496
+  },
+  {
+    "_id": 405,
+    "idx": 404,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Jagung",
+    "tahun": 2012,
+    "turtahun": "",
+    "nilai": 125784
+  },
+  {
+    "_id": 406,
+    "idx": 405,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Jagung",
+    "tahun": 2013,
+    "turtahun": "",
+    "nilai": 70009
+  },
+  {
+    "_id": 407,
+    "idx": 406,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Jagung",
+    "tahun": 2014,
+    "turtahun": "",
+    "nilai": 571134
+  },
+  {
+    "_id": 408,
+    "idx": 407,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Jagung",
+    "tahun": 2015,
+    "turtahun": "",
+    "nilai": 100811
+  },
+  {
+    "_id": 409,
+    "idx": 408,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Kedelai",
+    "tahun": 2008,
+    "turtahun": "",
+    "nilai": 522
+  },
+  {
+    "_id": 410,
+    "idx": 409,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Kedelai",
+    "tahun": 2009,
+    "turtahun": "",
+    "nilai": 2945
+  },
+  {
+    "_id": 411,
+    "idx": 410,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Kedelai",
+    "tahun": 2010,
+    "turtahun": "",
+    "nilai": 2565
+  },
+  {
+    "_id": 412,
+    "idx": 411,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Kedelai",
+    "tahun": 2011,
+    "turtahun": "",
+    "nilai": 6916
+  },
+  {
+    "_id": 413,
+    "idx": 412,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Kedelai",
+    "tahun": 2012,
+    "turtahun": "",
+    "nilai": 8110
+  },
+  {
+    "_id": 414,
+    "idx": 413,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Kedelai",
+    "tahun": 2013,
+    "turtahun": "",
+    "nilai": 6818
+  },
+  {
+    "_id": 415,
+    "idx": 414,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Kedelai",
+    "tahun": 2014,
+    "turtahun": "",
+    "nilai": 41202
+  },
+  {
+    "_id": 416,
+    "idx": 415,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Kedelai",
+    "tahun": 2015,
+    "turtahun": "",
+    "nilai": 4218
+  },
+  {
+    "_id": 417,
+    "idx": 416,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Kacang Tanah",
+    "tahun": 2008,
+    "turtahun": "",
+    "nilai": 677
+  },
+  {
+    "_id": 418,
+    "idx": 417,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Kacang Tanah",
+    "tahun": 2009,
+    "turtahun": "",
+    "nilai": 832
+  },
+  {
+    "_id": 419,
+    "idx": 418,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Kacang Tanah",
+    "tahun": 2010,
+    "turtahun": "",
+    "nilai": 1160
+  },
+  {
+    "_id": 420,
+    "idx": 419,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Kacang Tanah",
+    "tahun": 2011,
+    "turtahun": "",
+    "nilai": 28513
+  },
+  {
+    "_id": 421,
+    "idx": 420,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Kacang Tanah",
+    "tahun": 2012,
+    "turtahun": "",
+    "nilai": 1505
+  },
+  {
+    "_id": 422,
+    "idx": 421,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Kacang Tanah",
+    "tahun": 2013,
+    "turtahun": "",
+    "nilai": 903
+  },
+  {
+    "_id": 423,
+    "idx": 422,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Kacang Tanah",
+    "tahun": 2014,
+    "turtahun": "",
+    "nilai": 663
+  },
+  {
+    "_id": 424,
+    "idx": 423,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Kacang Tanah",
+    "tahun": 2015,
+    "turtahun": "",
+    "nilai": 329
+  },
+  {
+    "_id": 425,
+    "idx": 424,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Kacang Hijau",
+    "tahun": 2008,
+    "turtahun": "",
+    "nilai": 1449
+  },
+  {
+    "_id": 426,
+    "idx": 425,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Kacang Hijau",
+    "tahun": 2009,
+    "turtahun": "",
+    "nilai": 1116
+  },
+  {
+    "_id": 427,
+    "idx": 426,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Kacang Hijau",
+    "tahun": 2010,
+    "turtahun": "",
+    "nilai": 939
+  },
+  {
+    "_id": 428,
+    "idx": 427,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Kacang Hijau",
+    "tahun": 2011,
+    "turtahun": "",
+    "nilai": 4422
+  },
+  {
+    "_id": 429,
+    "idx": 428,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Kacang Hijau",
+    "tahun": 2012,
+    "turtahun": "",
+    "nilai": 184049
+  },
+  {
+    "_id": 430,
+    "idx": 429,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Kacang Hijau",
+    "tahun": 2013,
+    "turtahun": "",
+    "nilai": 970
+  },
+  {
+    "_id": 431,
+    "idx": 430,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Kacang Hijau",
+    "tahun": 2014,
+    "turtahun": "",
+    "nilai": 184
+  },
+  {
+    "_id": 432,
+    "idx": 431,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Kacang Hijau",
+    "tahun": 2015,
+    "turtahun": "",
+    "nilai": 360
+  },
+  {
+    "_id": 433,
+    "idx": 432,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Ubi Kayu",
+    "tahun": 2008,
+    "turtahun": "",
+    "nilai": 30795
+  },
+  {
+    "_id": 434,
+    "idx": 433,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Ubi Kayu",
+    "tahun": 2009,
+    "turtahun": "",
+    "nilai": 10906
+  },
+  {
+    "_id": 435,
+    "idx": 434,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Ubi Kayu",
+    "tahun": 2010,
+    "turtahun": "",
+    "nilai": 38619
+  },
+  {
+    "_id": 436,
+    "idx": 435,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Ubi Kayu",
+    "tahun": 2011,
+    "turtahun": "",
+    "nilai": 16893
+  },
+  {
+    "_id": 437,
+    "idx": 436,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Ubi Kayu",
+    "tahun": 2012,
+    "turtahun": "",
+    "nilai": 46314
+  },
+  {
+    "_id": 438,
+    "idx": 437,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Ubi Kayu",
+    "tahun": 2013,
+    "turtahun": "",
+    "nilai": 22496
+  },
+  {
+    "_id": 439,
+    "idx": 438,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Ubi Kayu",
+    "tahun": 2014,
+    "turtahun": "",
+    "nilai": 17018
+  },
+  {
+    "_id": 440,
+    "idx": 439,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Ubi Kayu",
+    "tahun": 2015,
+    "turtahun": "",
+    "nilai": 24984
+  },
+  {
+    "_id": 441,
+    "idx": 440,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Ubi Jalar",
+    "tahun": 2008,
+    "turtahun": "",
+    "nilai": 6397
+  },
+  {
+    "_id": 442,
+    "idx": 441,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Ubi Jalar",
+    "tahun": 2009,
+    "turtahun": "",
+    "nilai": 2645
+  },
+  {
+    "_id": 443,
+    "idx": 442,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Ubi Jalar",
+    "tahun": 2010,
+    "turtahun": "",
+    "nilai": 8070
+  },
+  {
+    "_id": 444,
+    "idx": 443,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Ubi Jalar",
+    "tahun": 2011,
+    "turtahun": "",
+    "nilai": 3409
+  },
+  {
+    "_id": 445,
+    "idx": 444,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Ubi Jalar",
+    "tahun": 2012,
+    "turtahun": "",
+    "nilai": 8725
+  },
+  {
+    "_id": 446,
+    "idx": 445,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Ubi Jalar",
+    "tahun": 2013,
+    "turtahun": "",
+    "nilai": 4168
+  },
+  {
+    "_id": 447,
+    "idx": 446,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Ubi Jalar",
+    "tahun": 2014,
+    "turtahun": "",
+    "nilai": 3507
+  },
+  {
+    "_id": 448,
+    "idx": 447,
+    "vervar": "Sulawesi Barat",
+    "var": "Produksi",
+    "turvar": "Ubi Jalar",
+    "tahun": 2015,
+    "turtahun": "",
+    "nilai": 8749
+  }
+]
